@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerfalculate",
+        "uuid": 26993932,
+        "checksum": "x99yfq"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
